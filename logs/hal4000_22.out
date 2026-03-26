@@ -1,0 +1,75 @@
+2026-03-25 21:09:18,590:hal4000:INFO:  handled by,65,illumination,stop camera
+2026-03-25 21:09:18,592:hal4000:INFO:message:
+2026-03-25 21:09:18,592:hal4000:INFO:  handled by,65,mosaic,stop camera
+2026-03-25 21:09:18,592:hal4000:INFO:message:
+2026-03-25 21:09:18,592:hal4000:INFO:  handled by,65,none_irlaser,stop camera
+2026-03-25 21:09:18,592:hal4000:INFO:message:
+2026-03-25 21:09:18,593:hal4000:INFO:  handled by,65,pi_controller,stop camera
+2026-03-25 21:09:18,593:hal4000:INFO:message:
+2026-03-25 21:09:18,593:hal4000:INFO:  handled by,65,progressions,stop camera
+2026-03-25 21:09:18,593:hal4000:INFO:message:
+2026-03-25 21:09:18,593:hal4000:INFO:  handled by,65,scmos_cal,stop camera
+2026-03-25 21:09:18,594:hal4000:INFO:message:
+2026-03-25 21:09:18,594:hal4000:INFO:  handled by,65,settings,stop camera
+2026-03-25 21:09:18,594:hal4000:INFO:message:
+2026-03-25 21:09:18,594:hal4000:INFO:  handled by,65,spotcounter,stop camera
+2026-03-25 21:09:18,594:hal4000:INFO:message:
+2026-03-25 21:09:18,594:hal4000:INFO:  handled by,65,stage,stop camera
+2026-03-25 21:09:18,594:hal4000:INFO:message:
+2026-03-25 21:09:18,595:hal4000:INFO:  handled by,65,tcp_control,stop camera
+2026-03-25 21:09:18,595:hal4000:INFO:message:
+2026-03-25 21:09:18,595:hal4000:INFO:  handled by,65,timing,stop camera
+2026-03-25 21:09:18,595:hal4000:INFO:message:
+2026-03-25 21:09:18,595:hal4000:INFO:  handled by,65,uc480_camera,stop camera
+2026-03-25 21:09:18,595:hal4000:INFO:message:
+2026-03-25 21:09:18,596:hal4000:INFO:  handled by,65,z_stage,stop camera
+2026-03-25 21:09:18,596:hal4000:INFO:message:
+2026-03-25 21:09:18,596:hal4000:INFO:  processed,65,film,stop camera
+2026-03-25 21:09:18,596:hal4000:INFO:message:
+2026-03-25 21:09:18,596:hal4000:INFO:  sent,66,film,live mode
+2026-03-25 21:09:18,597:hal4000:INFO:message:
+2026-03-25 21:09:18,597:hal4000:INFO:  handled by,66,hal,live mode
+2026-03-25 21:09:18,597:hal4000:INFO:message:
+2026-03-25 21:09:18,597:hal4000:INFO:  handled by,66,aotf,live mode
+2026-03-25 21:09:18,597:hal4000:INFO:message:
+2026-03-25 21:09:18,597:hal4000:INFO:  handled by,66,camera1,live mode
+2026-03-25 21:09:18,598:hal4000:INFO:message:
+2026-03-25 21:09:18,598:hal4000:INFO:  handled by,66,clemex_stage,live mode
+2026-03-25 21:09:18,598:hal4000:INFO:message:
+2026-03-25 21:09:18,598:hal4000:INFO:  handled by,66,coherentGenesis488,live mode
+2026-03-25 21:09:18,598:hal4000:INFO:message:
+2026-03-25 21:09:18,599:hal4000:INFO:  handled by,66,display,live mode
+2026-03-25 21:09:18,599:hal4000:INFO:message:
+2026-03-25 21:09:18,599:hal4000:INFO:  handled by,66,feeds,live mode
+2026-03-25 21:09:18,599:hal4000:INFO:message:
+2026-03-25 21:09:18,599:hal4000:INFO:  handled by,66,film,live mode
+2026-03-25 21:09:18,599:hal4000:INFO:message:
+2026-03-25 21:09:18,599:hal4000:INFO:  handled by,66,focuslock,live mode
+2026-03-25 21:09:18,600:hal4000:INFO:message:
+2026-03-25 21:09:18,600:hal4000:INFO:  handled by,66,illumination,live mode
+2026-03-25 21:09:18,600:hal4000:INFO:message:
+2026-03-25 21:09:18,600:hal4000:INFO:  handled by,66,mosaic,live mode
+2026-03-25 21:09:18,600:hal4000:INFO:message:
+2026-03-25 21:09:18,600:hal4000:INFO:  handled by,66,none_irlaser,live mode
+2026-03-25 21:09:18,601:hal4000:INFO:message:
+2026-03-25 21:09:18,601:hal4000:INFO:  handled by,66,pi_controller,live mode
+2026-03-25 21:09:18,601:hal4000:INFO:message:
+2026-03-25 21:09:18,601:hal4000:INFO:  handled by,66,progressions,live mode
+2026-03-25 21:09:18,601:hal4000:INFO:message:
+2026-03-25 21:09:18,601:hal4000:INFO:  handled by,66,scmos_cal,live mode
+2026-03-25 21:09:18,602:hal4000:INFO:message:
+2026-03-25 21:09:18,602:hal4000:INFO:  handled by,66,settings,live mode
+2026-03-25 21:09:18,602:hal4000:INFO:message:
+2026-03-25 21:09:18,602:hal4000:INFO:  handled by,66,spotcounter,live mode
+2026-03-25 21:09:18,602:hal4000:INFO:message:
+2026-03-25 21:09:18,602:hal4000:INFO:  handled by,66,stage,live mode
+2026-03-25 21:09:18,603:hal4000:INFO:message:
+2026-03-25 21:09:18,603:hal4000:INFO:  handled by,66,tcp_control,live mode
+2026-03-25 21:09:18,603:hal4000:INFO:message:
+2026-03-25 21:09:18,603:hal4000:INFO:  handled by,66,timing,live mode
+2026-03-25 21:09:18,603:hal4000:INFO:message:
+2026-03-25 21:09:18,603:hal4000:INFO:  handled by,66,uc480_camera,live mode
+2026-03-25 21:09:18,604:hal4000:INFO:message:
+2026-03-25 21:09:18,604:hal4000:INFO:  handled by,66,z_stage,live mode
+2026-03-25 21:09:18,604:hal4000:INFO:message:
+2026-03-25 21:09:18,604:hal4000:INFO:  processed,66,film,live mode

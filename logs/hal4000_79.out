@@ -1,0 +1,478 @@
+2026-03-26 15:14:01,117:hal4000:INFO:message:
+2026-03-26 15:14:01,118:hal4000:INFO:  handled by,57,scmos_cal,get functionality
+2026-03-26 15:14:01,119:hal4000:INFO:message:
+2026-03-26 15:14:01,119:hal4000:INFO:  handled by,57,settings,get functionality
+2026-03-26 15:14:01,119:hal4000:INFO:message:
+2026-03-26 15:14:01,119:hal4000:INFO:  handled by,57,spotcounter,get functionality
+2026-03-26 15:14:01,119:hal4000:INFO:message:
+2026-03-26 15:14:01,119:hal4000:INFO:  handled by,57,stage,get functionality
+2026-03-26 15:14:01,120:hal4000:INFO:message:
+2026-03-26 15:14:01,120:hal4000:INFO:  handled by,57,tcp_control,get functionality
+2026-03-26 15:14:01,120:hal4000:INFO:message:
+2026-03-26 15:14:01,120:hal4000:INFO:  handled by,57,timing,get functionality
+2026-03-26 15:14:01,120:hal4000:INFO:message:
+2026-03-26 15:14:01,120:hal4000:INFO:  handled by,57,uc480_camera,get functionality
+2026-03-26 15:14:01,121:hal4000:INFO:message:
+2026-03-26 15:14:01,121:hal4000:INFO:  handled by,57,z_stage,get functionality
+2026-03-26 15:14:01,121:hal4000:INFO:message:
+2026-03-26 15:14:01,121:hal4000:INFO:  processed,57,scmos_cal,get functionality
+2026-03-26 15:14:01,123:hal4000:INFO:message:
+2026-03-26 15:14:01,123:hal4000:INFO:  sent,3,core,start
+2026-03-26 15:14:01,149:hal4000:INFO:message:
+2026-03-26 15:14:01,149:hal4000:INFO:  queued,58,hal,change directory
+2026-03-26 15:14:01,149:hal4000:INFO:message:
+2026-03-26 15:14:01,149:hal4000:INFO:  handled by,3,hal,start
+2026-03-26 15:14:01,150:hal4000:INFO:message:
+2026-03-26 15:14:01,150:hal4000:INFO:  handled by,3,aotf,start
+2026-03-26 15:14:01,150:hal4000:INFO:message:
+2026-03-26 15:14:01,150:hal4000:INFO:  handled by,3,camera1,start
+2026-03-26 15:14:01,150:hal4000:INFO:message:
+2026-03-26 15:14:01,150:hal4000:INFO:  handled by,3,clemex_stage,start
+2026-03-26 15:14:01,151:hal4000:INFO:message:
+2026-03-26 15:14:01,151:hal4000:INFO:  handled by,3,coherentGenesis488,start
+2026-03-26 15:14:01,151:hal4000:INFO:message:
+2026-03-26 15:14:01,151:hal4000:INFO:  handled by,3,coherentGenesis560,start
+2026-03-26 15:14:01,151:hal4000:INFO:message:
+2026-03-26 15:14:01,152:hal4000:INFO:  queued,59,display,get functionality
+2026-03-26 15:14:01,152:hal4000:INFO:message:
+2026-03-26 15:14:01,152:hal4000:INFO:  handled by,3,display,start
+2026-03-26 15:14:01,152:hal4000:INFO:message:
+2026-03-26 15:14:01,152:hal4000:INFO:  handled by,3,feeds,start
+2026-03-26 15:14:01,153:hal4000:INFO:message:
+2026-03-26 15:14:01,153:hal4000:INFO:  queued,60,film,start camera
+2026-03-26 15:14:01,153:hal4000:INFO:message:
+2026-03-26 15:14:01,153:hal4000:INFO:  queued,61,film,sync
+2026-03-26 15:14:01,153:hal4000:INFO:message:
+2026-03-26 15:14:01,153:hal4000:INFO:  queued,62,film,start camera
+2026-03-26 15:14:01,154:hal4000:INFO:message:
+2026-03-26 15:14:01,154:hal4000:INFO:  handled by,3,film,start
+2026-03-26 15:14:01,165:hal4000:INFO:message:
+2026-03-26 15:14:01,165:hal4000:INFO:  handled by,3,focuslock,start
+2026-03-26 15:14:01,197:hal4000:INFO:message:
+2026-03-26 15:14:01,197:hal4000:INFO:  queued,63,illumination,new shutters file
+2026-03-26 15:14:01,204:hal4000:INFO:message:
+2026-03-26 15:14:01,204:hal4000:INFO:  handled by,3,illumination,start
+2026-03-26 15:14:01,205:hal4000:INFO:message:
+2026-03-26 15:14:01,205:hal4000:INFO:  handled by,3,mosaic,start
+2026-03-26 15:14:01,205:hal4000:INFO:message:
+2026-03-26 15:14:01,205:hal4000:INFO:  handled by,3,mpb642,start
+2026-03-26 15:14:01,205:hal4000:INFO:message:
+2026-03-26 15:14:01,206:hal4000:INFO:  handled by,3,none_irlaser,start
+2026-03-26 15:14:01,206:hal4000:INFO:message:
+2026-03-26 15:14:01,206:hal4000:INFO:  handled by,3,obis405,start
+2026-03-26 15:14:01,206:hal4000:INFO:message:
+2026-03-26 15:14:01,206:hal4000:INFO:  handled by,3,pi_controller,start
+2026-03-26 15:14:01,206:hal4000:INFO:message:
+2026-03-26 15:14:01,207:hal4000:INFO:  handled by,3,progressions,start
+2026-03-26 15:14:01,207:hal4000:INFO:message:
+2026-03-26 15:14:01,207:hal4000:INFO:  handled by,3,scmos_cal,start
+2026-03-26 15:14:01,207:hal4000:INFO:message:
+2026-03-26 15:14:01,207:hal4000:INFO:  handled by,3,settings,start
+2026-03-26 15:14:01,208:hal4000:INFO:message:
+2026-03-26 15:14:01,208:hal4000:INFO:  queued,64,spotcounter,get functionality
+2026-03-26 15:14:01,208:hal4000:INFO:message:
+2026-03-26 15:14:01,208:hal4000:INFO:  handled by,3,spotcounter,start
+2026-03-26 15:14:01,215:hal4000:INFO:message:
+2026-03-26 15:14:01,216:hal4000:INFO:  handled by,3,stage,start
+2026-03-26 15:14:01,216:hal4000:INFO:message:
+2026-03-26 15:14:01,216:hal4000:INFO:  handled by,3,tcp_control,start
+2026-03-26 15:14:01,217:hal4000:INFO:message:
+2026-03-26 15:14:01,217:hal4000:INFO:  handled by,3,timing,start
+2026-03-26 15:14:01,217:hal4000:INFO:message:
+2026-03-26 15:14:01,217:hal4000:INFO:  handled by,3,uc480_camera,start
+2026-03-26 15:14:01,224:hal4000:INFO:message:
+2026-03-26 15:14:01,225:hal4000:INFO:  handled by,3,z_stage,start
+2026-03-26 15:14:01,225:hal4000:INFO:message:
+2026-03-26 15:14:01,225:hal4000:INFO:  processed,3,core,start
+2026-03-26 15:14:01,294:hal4000:INFO:message:
+2026-03-26 15:14:01,294:hal4000:INFO:  sent,58,hal,change directory
+2026-03-26 15:14:01,315:hal4000:INFO:message:
+2026-03-26 15:14:01,315:hal4000:INFO:  handled by,58,hal,change directory
+2026-03-26 15:14:01,315:hal4000:INFO:message:
+2026-03-26 15:14:01,316:hal4000:INFO:  handled by,58,aotf,change directory
+2026-03-26 15:14:01,316:hal4000:INFO:message:
+2026-03-26 15:14:01,316:hal4000:INFO:  handled by,58,camera1,change directory
+2026-03-26 15:14:01,316:hal4000:INFO:message:
+2026-03-26 15:14:01,316:hal4000:INFO:  handled by,58,clemex_stage,change directory
+2026-03-26 15:14:01,317:hal4000:INFO:message:
+2026-03-26 15:14:01,317:hal4000:INFO:  handled by,58,coherentGenesis488,change directory
+2026-03-26 15:14:01,317:hal4000:INFO:message:
+2026-03-26 15:14:01,317:hal4000:INFO:  handled by,58,coherentGenesis560,change directory
+2026-03-26 15:14:01,317:hal4000:INFO:message:
+2026-03-26 15:14:01,317:hal4000:INFO:  handled by,58,display,change directory
+2026-03-26 15:14:01,318:hal4000:INFO:message:
+2026-03-26 15:14:01,318:hal4000:INFO:  handled by,58,feeds,change directory
+2026-03-26 15:14:01,318:hal4000:INFO:message:
+2026-03-26 15:14:01,319:hal4000:INFO:  handled by,58,film,change directory
+2026-03-26 15:14:01,319:hal4000:INFO:message:
+2026-03-26 15:14:01,319:hal4000:INFO:  handled by,58,focuslock,change directory
+2026-03-26 15:14:01,319:hal4000:INFO:message:
+2026-03-26 15:14:01,320:hal4000:INFO:  handled by,58,illumination,change directory
+2026-03-26 15:14:01,320:hal4000:INFO:message:
+2026-03-26 15:14:01,320:hal4000:INFO:  handled by,58,mosaic,change directory
+2026-03-26 15:14:01,320:hal4000:INFO:message:
+2026-03-26 15:14:01,320:hal4000:INFO:  handled by,58,mpb642,change directory
+2026-03-26 15:14:01,320:hal4000:INFO:message:
+2026-03-26 15:14:01,321:hal4000:INFO:  handled by,58,none_irlaser,change directory
+2026-03-26 15:14:01,321:hal4000:INFO:message:
+2026-03-26 15:14:01,321:hal4000:INFO:  handled by,58,obis405,change directory
+2026-03-26 15:14:01,321:hal4000:INFO:message:
+2026-03-26 15:14:01,321:hal4000:INFO:  handled by,58,pi_controller,change directory
+2026-03-26 15:14:01,321:hal4000:INFO:message:
+2026-03-26 15:14:01,322:hal4000:INFO:  handled by,58,progressions,change directory
+2026-03-26 15:14:01,322:hal4000:INFO:message:
+2026-03-26 15:14:01,322:hal4000:INFO:  handled by,58,scmos_cal,change directory
+2026-03-26 15:14:01,322:hal4000:INFO:message:
+2026-03-26 15:14:01,322:hal4000:INFO:  handled by,58,settings,change directory
+2026-03-26 15:14:01,323:hal4000:INFO:message:
+2026-03-26 15:14:01,323:hal4000:INFO:  handled by,58,spotcounter,change directory
+2026-03-26 15:14:01,323:hal4000:INFO:message:
+2026-03-26 15:14:01,323:hal4000:INFO:  handled by,58,stage,change directory
+2026-03-26 15:14:01,323:hal4000:INFO:message:
+2026-03-26 15:14:01,323:hal4000:INFO:  handled by,58,tcp_control,change directory
+2026-03-26 15:14:01,324:hal4000:INFO:message:
+2026-03-26 15:14:01,324:hal4000:INFO:  handled by,58,timing,change directory
+2026-03-26 15:14:01,324:hal4000:INFO:message:
+2026-03-26 15:14:01,324:hal4000:INFO:  handled by,58,uc480_camera,change directory
+2026-03-26 15:14:01,324:hal4000:INFO:message:
+2026-03-26 15:14:01,324:hal4000:INFO:  handled by,58,z_stage,change directory
+2026-03-26 15:14:01,325:hal4000:INFO:message:
+2026-03-26 15:14:01,325:hal4000:INFO:  processed,58,hal,change directory
+2026-03-26 15:14:01,325:hal4000:INFO:message:
+2026-03-26 15:14:01,325:hal4000:INFO:  sent,59,display,get functionality
+2026-03-26 15:14:01,327:hal4000:INFO:message:
+2026-03-26 15:14:01,327:hal4000:INFO:  handled by,59,hal,get functionality
+2026-03-26 15:14:01,327:hal4000:INFO:message:
+2026-03-26 15:14:01,327:hal4000:INFO:  handled by,59,aotf,get functionality
+2026-03-26 15:14:01,328:hal4000:INFO:message:
+2026-03-26 15:14:01,328:hal4000:INFO:  handled by,59,camera1,get functionality
+2026-03-26 15:14:01,328:hal4000:INFO:message:
+2026-03-26 15:14:01,328:hal4000:INFO:  handled by,59,clemex_stage,get functionality
+2026-03-26 15:14:01,328:hal4000:INFO:message:
+2026-03-26 15:14:01,328:hal4000:INFO:  handled by,59,coherentGenesis488,get functionality
+2026-03-26 15:14:01,329:hal4000:INFO:message:
+2026-03-26 15:14:01,329:hal4000:INFO:  handled by,59,coherentGenesis560,get functionality
+2026-03-26 15:14:01,329:hal4000:INFO:message:
+2026-03-26 15:14:01,329:hal4000:INFO:  handled by,59,display,get functionality
+2026-03-26 15:14:01,330:hal4000:INFO:message:
+2026-03-26 15:14:01,330:hal4000:INFO:  handled by,59,feeds,get functionality
+2026-03-26 15:14:01,330:hal4000:INFO:message:
+2026-03-26 15:14:01,330:hal4000:INFO:  handled by,59,film,get functionality
+2026-03-26 15:14:01,330:hal4000:INFO:message:
+2026-03-26 15:14:01,330:hal4000:INFO:  handled by,59,focuslock,get functionality
+2026-03-26 15:14:01,331:hal4000:INFO:message:
+2026-03-26 15:14:01,331:hal4000:INFO:  handled by,59,illumination,get functionality
+2026-03-26 15:14:01,331:hal4000:INFO:message:
+2026-03-26 15:14:01,331:hal4000:INFO:  handled by,59,mosaic,get functionality
+2026-03-26 15:14:01,331:hal4000:INFO:message:
+2026-03-26 15:14:01,331:hal4000:INFO:  handled by,59,mpb642,get functionality
+2026-03-26 15:14:01,332:hal4000:INFO:message:
+2026-03-26 15:14:01,332:hal4000:INFO:  handled by,59,none_irlaser,get functionality
+2026-03-26 15:14:01,332:hal4000:INFO:message:
+2026-03-26 15:14:01,332:hal4000:INFO:  handled by,59,obis405,get functionality
+2026-03-26 15:14:01,333:hal4000:INFO:message:
+2026-03-26 15:14:01,333:hal4000:INFO:  handled by,59,pi_controller,get functionality
+2026-03-26 15:14:01,333:hal4000:INFO:message:
+2026-03-26 15:14:01,333:hal4000:INFO:  handled by,59,progressions,get functionality
+2026-03-26 15:14:01,333:hal4000:INFO:message:
+2026-03-26 15:14:01,333:hal4000:INFO:  handled by,59,scmos_cal,get functionality
+2026-03-26 15:14:01,334:hal4000:INFO:message:
+2026-03-26 15:14:01,334:hal4000:INFO:  handled by,59,settings,get functionality
+2026-03-26 15:14:01,334:hal4000:INFO:message:
+2026-03-26 15:14:01,334:hal4000:INFO:  handled by,59,spotcounter,get functionality
+2026-03-26 15:14:01,334:hal4000:INFO:message:
+2026-03-26 15:14:01,334:hal4000:INFO:  handled by,59,stage,get functionality
+2026-03-26 15:14:01,335:hal4000:INFO:message:
+2026-03-26 15:14:01,335:hal4000:INFO:  handled by,59,tcp_control,get functionality
+2026-03-26 15:14:01,335:hal4000:INFO:message:
+2026-03-26 15:14:01,335:hal4000:INFO:  handled by,59,timing,get functionality
+2026-03-26 15:14:01,336:hal4000:INFO:message:
+2026-03-26 15:14:01,336:hal4000:INFO:  handled by,59,uc480_camera,get functionality
+2026-03-26 15:14:01,337:hal4000:INFO:message:
+2026-03-26 15:14:01,337:hal4000:INFO:  handled by,59,z_stage,get functionality
+2026-03-26 15:14:01,337:hal4000:INFO:message:
+2026-03-26 15:14:01,337:hal4000:INFO:  processed,59,display,get functionality
+2026-03-26 15:14:01,339:hal4000:INFO:message:
+2026-03-26 15:14:01,339:hal4000:INFO:  sent,60,film,start camera
+2026-03-26 15:14:01,341:hal4000:INFO:message:
+2026-03-26 15:14:01,342:hal4000:INFO:  handled by,60,hal,start camera
+2026-03-26 15:14:01,342:hal4000:INFO:message:
+2026-03-26 15:14:01,342:hal4000:INFO:  handled by,60,aotf,start camera
+2026-03-26 15:14:01,342:hal4000:INFO:message:
+2026-03-26 15:14:01,342:hal4000:INFO:  handled by,60,camera1,start camera
+2026-03-26 15:14:01,343:hal4000:INFO:message:
+2026-03-26 15:14:01,343:hal4000:INFO:  handled by,60,clemex_stage,start camera
+2026-03-26 15:14:01,343:hal4000:INFO:message:
+2026-03-26 15:14:01,343:hal4000:INFO:  handled by,60,coherentGenesis488,start camera
+2026-03-26 15:14:01,343:hal4000:INFO:message:
+2026-03-26 15:14:01,343:hal4000:INFO:  handled by,60,coherentGenesis560,start camera
+2026-03-26 15:14:01,344:hal4000:INFO:message:
+2026-03-26 15:14:01,344:hal4000:INFO:  handled by,60,display,start camera
+2026-03-26 15:14:01,344:hal4000:INFO:message:
+2026-03-26 15:14:01,344:hal4000:INFO:  handled by,60,feeds,start camera
+2026-03-26 15:14:01,344:hal4000:INFO:message:
+2026-03-26 15:14:01,344:hal4000:INFO:  handled by,60,film,start camera
+2026-03-26 15:14:01,345:hal4000:INFO:message:
+2026-03-26 15:14:01,345:hal4000:INFO:  handled by,60,focuslock,start camera
+2026-03-26 15:14:01,345:hal4000:INFO:message:
+2026-03-26 15:14:01,345:hal4000:INFO:  handled by,60,illumination,start camera
+2026-03-26 15:14:01,345:hal4000:INFO:message:
+2026-03-26 15:14:01,345:hal4000:INFO:  handled by,60,mosaic,start camera
+2026-03-26 15:14:01,346:hal4000:INFO:message:
+2026-03-26 15:14:01,346:hal4000:INFO:  handled by,60,mpb642,start camera
+2026-03-26 15:14:01,346:hal4000:INFO:message:
+2026-03-26 15:14:01,346:hal4000:INFO:  handled by,60,none_irlaser,start camera
+2026-03-26 15:14:01,346:hal4000:INFO:message:
+2026-03-26 15:14:01,346:hal4000:INFO:  handled by,60,obis405,start camera
+2026-03-26 15:14:01,347:hal4000:INFO:message:
+2026-03-26 15:14:01,347:hal4000:INFO:  handled by,60,pi_controller,start camera
+2026-03-26 15:14:01,347:hal4000:INFO:message:
+2026-03-26 15:14:01,347:hal4000:INFO:  handled by,60,progressions,start camera
+2026-03-26 15:14:01,347:hal4000:INFO:message:
+2026-03-26 15:14:01,347:hal4000:INFO:  handled by,60,scmos_cal,start camera
+2026-03-26 15:14:01,348:hal4000:INFO:message:
+2026-03-26 15:14:01,348:hal4000:INFO:  handled by,60,settings,start camera
+2026-03-26 15:14:01,348:hal4000:INFO:message:
+2026-03-26 15:14:01,348:hal4000:INFO:  handled by,60,spotcounter,start camera
+2026-03-26 15:14:01,348:hal4000:INFO:message:
+2026-03-26 15:14:01,348:hal4000:INFO:  handled by,60,stage,start camera
+2026-03-26 15:14:01,349:hal4000:INFO:message:
+2026-03-26 15:14:01,349:hal4000:INFO:  handled by,60,tcp_control,start camera
+2026-03-26 15:14:01,349:hal4000:INFO:message:
+2026-03-26 15:14:01,349:hal4000:INFO:  handled by,60,timing,start camera
+2026-03-26 15:14:01,349:hal4000:INFO:message:
+2026-03-26 15:14:01,349:hal4000:INFO:  handled by,60,uc480_camera,start camera
+2026-03-26 15:14:01,350:hal4000:INFO:message:
+2026-03-26 15:14:01,350:hal4000:INFO:  handled by,60,z_stage,start camera
+2026-03-26 15:14:01,350:hal4000:INFO:message:
+2026-03-26 15:14:01,351:hal4000:INFO:  processed,60,film,start camera
+2026-03-26 15:14:01,352:hal4000:INFO:message:
+2026-03-26 15:14:01,352:hal4000:INFO:  sent,62,film,start camera
+2026-03-26 15:14:01,353:hal4000:INFO:message:
+2026-03-26 15:14:01,353:hal4000:INFO:  handled by,62,hal,start camera
+2026-03-26 15:14:01,354:hal4000:INFO:message:
+2026-03-26 15:14:01,354:hal4000:INFO:  handled by,62,aotf,start camera
+2026-03-26 15:14:01,354:hal4000:INFO:message:
+2026-03-26 15:14:01,354:hal4000:INFO:  handled by,62,camera1,start camera
+2026-03-26 15:14:01,354:hal4000:INFO:message:
+2026-03-26 15:14:01,355:hal4000:INFO:  handled by,62,clemex_stage,start camera
+2026-03-26 15:14:01,355:hal4000:INFO:message:
+2026-03-26 15:14:01,355:hal4000:INFO:  handled by,62,coherentGenesis488,start camera
+2026-03-26 15:14:01,355:hal4000:INFO:message:
+2026-03-26 15:14:01,355:hal4000:INFO:  handled by,62,coherentGenesis560,start camera
+2026-03-26 15:14:01,356:hal4000:INFO:message:
+2026-03-26 15:14:01,356:hal4000:INFO:  handled by,62,display,start camera
+2026-03-26 15:14:01,356:hal4000:INFO:message:
+2026-03-26 15:14:01,356:hal4000:INFO:  handled by,62,feeds,start camera
+2026-03-26 15:14:01,360:hal4000:INFO:message:
+2026-03-26 15:14:01,360:hal4000:INFO:  handled by,62,film,start camera
+2026-03-26 15:14:01,360:hal4000:INFO:message:
+2026-03-26 15:14:01,360:hal4000:INFO:  handled by,62,focuslock,start camera
+2026-03-26 15:14:01,360:hal4000:INFO:message:
+2026-03-26 15:14:01,360:hal4000:INFO:  handled by,62,illumination,start camera
+2026-03-26 15:14:01,361:hal4000:INFO:message:
+2026-03-26 15:14:01,361:hal4000:INFO:  handled by,62,mosaic,start camera
+2026-03-26 15:14:01,361:hal4000:INFO:message:
+2026-03-26 15:14:01,361:hal4000:INFO:  handled by,62,mpb642,start camera
+2026-03-26 15:14:01,361:hal4000:INFO:message:
+2026-03-26 15:14:01,361:hal4000:INFO:  handled by,62,none_irlaser,start camera
+2026-03-26 15:14:01,362:hal4000:INFO:message:
+2026-03-26 15:14:01,362:hal4000:INFO:  handled by,62,obis405,start camera
+2026-03-26 15:14:01,362:hal4000:INFO:message:
+2026-03-26 15:14:01,362:hal4000:INFO:  handled by,62,pi_controller,start camera
+2026-03-26 15:14:01,362:hal4000:INFO:message:
+2026-03-26 15:14:01,362:hal4000:INFO:  handled by,62,progressions,start camera
+2026-03-26 15:14:01,363:hal4000:INFO:message:
+2026-03-26 15:14:01,363:hal4000:INFO:  handled by,62,scmos_cal,start camera
+2026-03-26 15:14:01,363:hal4000:INFO:message:
+2026-03-26 15:14:01,363:hal4000:INFO:  handled by,62,settings,start camera
+2026-03-26 15:14:01,364:hal4000:INFO:message:
+2026-03-26 15:14:01,364:hal4000:INFO:  handled by,62,spotcounter,start camera
+2026-03-26 15:14:01,364:hal4000:INFO:message:
+2026-03-26 15:14:01,364:hal4000:INFO:  handled by,62,stage,start camera
+2026-03-26 15:14:01,364:hal4000:INFO:message:
+2026-03-26 15:14:01,365:hal4000:INFO:  handled by,62,tcp_control,start camera
+2026-03-26 15:14:01,365:hal4000:INFO:message:
+2026-03-26 15:14:01,365:hal4000:INFO:  handled by,62,timing,start camera
+2026-03-26 15:14:01,365:hal4000:INFO:message:
+2026-03-26 15:14:01,365:hal4000:INFO:  handled by,62,uc480_camera,start camera
+2026-03-26 15:14:01,365:hal4000:INFO:message:
+2026-03-26 15:14:01,366:hal4000:INFO:  handled by,62,z_stage,start camera
+2026-03-26 15:14:01,366:hal4000:INFO:message:
+2026-03-26 15:14:01,366:hal4000:INFO:  sent,63,illumination,new shutters file
+2026-03-26 15:14:01,367:hal4000:INFO:message:
+2026-03-26 15:14:01,368:hal4000:INFO:  worker started 60000,62,film,start camera
+2026-03-26 15:14:01,368:hal4000:INFO:message:
+2026-03-26 15:14:01,368:hal4000:INFO:  handled by,63,hal,new shutters file
+2026-03-26 15:14:01,368:hal4000:INFO:message:
+2026-03-26 15:14:01,368:hal4000:INFO:  handled by,63,aotf,new shutters file
+2026-03-26 15:14:01,368:hal4000:INFO:message:
+2026-03-26 15:14:01,369:hal4000:INFO:  handled by,63,clemex_stage,new shutters file
+2026-03-26 15:14:01,369:hal4000:INFO:message:
+2026-03-26 15:14:01,369:hal4000:INFO:  handled by,63,coherentGenesis488,new shutters file
+2026-03-26 15:14:01,369:hal4000:INFO:message:
+2026-03-26 15:14:01,369:hal4000:INFO:  handled by,63,coherentGenesis560,new shutters file
+2026-03-26 15:14:01,370:hal4000:INFO:message:
+2026-03-26 15:14:01,370:hal4000:INFO:  handled by,63,display,new shutters file
+2026-03-26 15:14:01,370:hal4000:INFO:message:
+2026-03-26 15:14:01,370:hal4000:INFO:  handled by,63,feeds,new shutters file
+2026-03-26 15:14:01,370:hal4000:INFO:message:
+2026-03-26 15:14:01,371:hal4000:INFO:  handled by,63,film,new shutters file
+2026-03-26 15:14:01,371:hal4000:INFO:message:
+2026-03-26 15:14:01,372:hal4000:INFO:  handled by,63,focuslock,new shutters file
+2026-03-26 15:14:01,372:hal4000:INFO:message:
+2026-03-26 15:14:01,373:hal4000:INFO:  queued,65,illumination,configuration
+2026-03-26 15:14:01,373:hal4000:INFO:message:
+2026-03-26 15:14:01,373:hal4000:INFO:  handled by,63,illumination,new shutters file
+2026-03-26 15:14:01,373:hal4000:INFO:message:
+2026-03-26 15:14:01,373:hal4000:INFO:  handled by,63,mosaic,new shutters file
+2026-03-26 15:14:01,373:hal4000:INFO:message:
+2026-03-26 15:14:01,374:hal4000:INFO:  handled by,63,mpb642,new shutters file
+2026-03-26 15:14:01,374:hal4000:INFO:message:
+2026-03-26 15:14:01,375:hal4000:INFO:  handled by,63,none_irlaser,new shutters file
+2026-03-26 15:14:01,375:hal4000:INFO:message:
+2026-03-26 15:14:01,375:hal4000:INFO:  handled by,63,obis405,new shutters file
+2026-03-26 15:14:01,375:hal4000:INFO:message:
+2026-03-26 15:14:01,375:hal4000:INFO:  handled by,63,pi_controller,new shutters file
+2026-03-26 15:14:01,376:hal4000:INFO:message:
+2026-03-26 15:14:01,376:hal4000:INFO:  handled by,63,progressions,new shutters file
+2026-03-26 15:14:01,376:hal4000:INFO:message:
+2026-03-26 15:14:01,376:hal4000:INFO:  handled by,63,scmos_cal,new shutters file
+2026-03-26 15:14:01,376:hal4000:INFO:message:
+2026-03-26 15:14:01,376:hal4000:INFO:  handled by,63,settings,new shutters file
+2026-03-26 15:14:01,377:hal4000:INFO:message:
+2026-03-26 15:14:01,377:hal4000:INFO:  handled by,63,spotcounter,new shutters file
+2026-03-26 15:14:01,377:hal4000:INFO:message:
+2026-03-26 15:14:01,377:hal4000:INFO:  handled by,63,stage,new shutters file
+2026-03-26 15:14:01,377:hal4000:INFO:message:
+2026-03-26 15:14:01,378:hal4000:INFO:  handled by,63,tcp_control,new shutters file
+2026-03-26 15:14:01,378:hal4000:INFO:message:
+2026-03-26 15:14:01,378:hal4000:INFO:  handled by,63,timing,new shutters file
+2026-03-26 15:14:01,379:hal4000:INFO:message:
+2026-03-26 15:14:01,379:hal4000:INFO:  handled by,63,uc480_camera,new shutters file
+2026-03-26 15:14:01,379:hal4000:INFO:message:
+2026-03-26 15:14:01,379:hal4000:INFO:  handled by,63,z_stage,new shutters file
+2026-03-26 15:14:01,379:hal4000:INFO:message:
+2026-03-26 15:14:01,380:hal4000:INFO:  sent,64,spotcounter,get functionality
+2026-03-26 15:14:01,380:hal4000:INFO:message:
+2026-03-26 15:14:01,380:hal4000:INFO:  handled by,64,hal,get functionality
+2026-03-26 15:14:01,381:hal4000:INFO:message:
+2026-03-26 15:14:01,381:hal4000:INFO:  handled by,64,aotf,get functionality
+2026-03-26 15:14:01,381:hal4000:INFO:message:
+2026-03-26 15:14:01,381:hal4000:INFO:  handled by,64,clemex_stage,get functionality
+2026-03-26 15:14:01,381:hal4000:INFO:message:
+2026-03-26 15:14:01,381:hal4000:INFO:  handled by,64,coherentGenesis488,get functionality
+2026-03-26 15:14:01,382:hal4000:INFO:message:
+2026-03-26 15:14:01,382:hal4000:INFO:  handled by,64,coherentGenesis560,get functionality
+2026-03-26 15:14:01,382:hal4000:INFO:message:
+2026-03-26 15:14:01,382:hal4000:INFO:  handled by,64,display,get functionality
+2026-03-26 15:14:01,382:hal4000:INFO:message:
+2026-03-26 15:14:01,382:hal4000:INFO:  handled by,64,feeds,get functionality
+2026-03-26 15:14:01,383:hal4000:INFO:message:
+2026-03-26 15:14:01,383:hal4000:INFO:  handled by,64,film,get functionality
+2026-03-26 15:14:01,383:hal4000:INFO:message:
+2026-03-26 15:14:01,383:hal4000:INFO:  handled by,64,focuslock,get functionality
+2026-03-26 15:14:01,383:hal4000:INFO:message:
+2026-03-26 15:14:01,383:hal4000:INFO:  handled by,64,illumination,get functionality
+2026-03-26 15:14:01,384:hal4000:INFO:message:
+2026-03-26 15:14:01,384:hal4000:INFO:  handled by,64,mosaic,get functionality
+2026-03-26 15:14:01,384:hal4000:INFO:message:
+2026-03-26 15:14:01,384:hal4000:INFO:  handled by,64,mpb642,get functionality
+2026-03-26 15:14:01,384:hal4000:INFO:message:
+2026-03-26 15:14:01,384:hal4000:INFO:  handled by,64,none_irlaser,get functionality
+2026-03-26 15:14:01,385:hal4000:INFO:message:
+2026-03-26 15:14:01,385:hal4000:INFO:  handled by,64,obis405,get functionality
+2026-03-26 15:14:01,385:hal4000:INFO:message:
+2026-03-26 15:14:01,385:hal4000:INFO:  handled by,64,pi_controller,get functionality
+2026-03-26 15:14:01,385:hal4000:INFO:message:
+2026-03-26 15:14:01,385:hal4000:INFO:  handled by,64,progressions,get functionality
+2026-03-26 15:14:01,386:hal4000:INFO:message:
+2026-03-26 15:14:01,386:hal4000:INFO:  handled by,64,scmos_cal,get functionality
+2026-03-26 15:14:01,386:hal4000:INFO:message:
+2026-03-26 15:14:01,386:hal4000:INFO:  handled by,64,settings,get functionality
+2026-03-26 15:14:01,386:hal4000:INFO:message:
+2026-03-26 15:14:01,386:hal4000:INFO:  handled by,64,spotcounter,get functionality
+2026-03-26 15:14:01,387:hal4000:INFO:message:
+2026-03-26 15:14:01,387:hal4000:INFO:  handled by,64,stage,get functionality
+2026-03-26 15:14:01,387:hal4000:INFO:message:
+2026-03-26 15:14:01,387:hal4000:INFO:  handled by,64,tcp_control,get functionality
+2026-03-26 15:14:01,387:hal4000:INFO:message:
+2026-03-26 15:14:01,387:hal4000:INFO:  handled by,64,timing,get functionality
+2026-03-26 15:14:01,388:hal4000:INFO:message:
+2026-03-26 15:14:01,388:hal4000:INFO:  handled by,64,uc480_camera,get functionality
+2026-03-26 15:14:01,388:hal4000:INFO:message:
+2026-03-26 15:14:01,388:hal4000:INFO:  handled by,64,z_stage,get functionality
+2026-03-26 15:14:01,389:hal4000:INFO:message:
+2026-03-26 15:14:01,389:hal4000:INFO:  sent,65,illumination,configuration
+2026-03-26 15:14:01,391:hal4000:INFO:message:
+2026-03-26 15:14:01,391:hal4000:INFO:  handled by,65,hal,configuration
+2026-03-26 15:14:01,391:hal4000:INFO:message:
+2026-03-26 15:14:01,391:hal4000:INFO:  handled by,65,aotf,configuration
+2026-03-26 15:14:01,391:hal4000:INFO:message:
+2026-03-26 15:14:01,392:hal4000:INFO:  handled by,65,clemex_stage,configuration
+2026-03-26 15:14:01,392:hal4000:INFO:message:
+2026-03-26 15:14:01,392:hal4000:INFO:  handled by,65,coherentGenesis488,configuration
+2026-03-26 15:14:01,393:hal4000:INFO:message:
+2026-03-26 15:14:01,393:hal4000:INFO:  handled by,65,coherentGenesis560,configuration
+2026-03-26 15:14:01,393:hal4000:INFO:message:
+2026-03-26 15:14:01,393:hal4000:INFO:  handled by,65,display,configuration
+2026-03-26 15:14:01,393:hal4000:INFO:message:
+2026-03-26 15:14:01,394:hal4000:INFO:  handled by,65,feeds,configuration
+2026-03-26 15:14:01,394:hal4000:INFO:message:
+2026-03-26 15:14:01,394:hal4000:INFO:  handled by,65,film,configuration
+2026-03-26 15:14:01,394:hal4000:INFO:message:
+2026-03-26 15:14:01,394:hal4000:INFO:  handled by,65,focuslock,configuration
+2026-03-26 15:14:01,395:hal4000:INFO:message:
+2026-03-26 15:14:01,395:hal4000:INFO:  handled by,65,illumination,configuration
+2026-03-26 15:14:01,395:hal4000:INFO:message:
+2026-03-26 15:14:01,395:hal4000:INFO:  handled by,65,mosaic,configuration
+2026-03-26 15:14:01,396:hal4000:INFO:message:
+2026-03-26 15:14:01,396:hal4000:INFO:  handled by,65,mpb642,configuration
+2026-03-26 15:14:01,397:hal4000:INFO:message:
+2026-03-26 15:14:01,397:hal4000:INFO:  handled by,65,none_irlaser,configuration
+2026-03-26 15:14:01,397:hal4000:INFO:message:
+2026-03-26 15:14:01,397:hal4000:INFO:  handled by,65,obis405,configuration
+2026-03-26 15:14:01,397:hal4000:INFO:message:
+2026-03-26 15:14:01,397:hal4000:INFO:  handled by,65,pi_controller,configuration
+2026-03-26 15:14:01,398:hal4000:INFO:message:
+2026-03-26 15:14:01,398:hal4000:INFO:  handled by,65,progressions,configuration
+2026-03-26 15:14:01,398:hal4000:INFO:message:
+2026-03-26 15:14:01,398:hal4000:INFO:  handled by,65,scmos_cal,configuration
+2026-03-26 15:14:01,398:hal4000:INFO:message:
+2026-03-26 15:14:01,398:hal4000:INFO:  handled by,65,settings,configuration
+2026-03-26 15:14:01,398:hal4000:INFO:message:
+2026-03-26 15:14:01,398:hal4000:INFO:  handled by,65,spotcounter,configuration
+2026-03-26 15:14:01,398:hal4000:INFO:message:
+2026-03-26 15:14:01,398:hal4000:INFO:  handled by,65,stage,configuration
+2026-03-26 15:14:01,398:hal4000:INFO:message:
+2026-03-26 15:14:01,398:hal4000:INFO:  handled by,65,tcp_control,configuration
+2026-03-26 15:14:01,399:hal4000:INFO:message:
+2026-03-26 15:14:01,399:hal4000:INFO:  handled by,65,timing,configuration
+2026-03-26 15:14:01,399:hal4000:INFO:message:
+2026-03-26 15:14:01,399:hal4000:INFO:  handled by,65,uc480_camera,configuration
+2026-03-26 15:14:01,399:hal4000:INFO:message:
+2026-03-26 15:14:01,399:hal4000:INFO:  handled by,65,z_stage,configuration
+2026-03-26 15:14:01,702:hal4000:INFO:message:
+2026-03-26 15:14:01,702:hal4000:INFO:  handled by,62,camera1,start camera
+2026-03-26 15:14:01,702:hal4000:INFO:message:
+2026-03-26 15:14:01,702:hal4000:INFO:  processed,62,film,start camera
+2026-03-26 15:14:01,703:hal4000:INFO:message:
+2026-03-26 15:14:01,703:hal4000:INFO:  worker done,62,film,start camera
+2026-03-26 15:14:01,703:hal4000:INFO:message:
+2026-03-26 15:14:01,703:hal4000:INFO:  handled by,63,camera1,new shutters file
+2026-03-26 15:14:01,703:hal4000:INFO:message:
+2026-03-26 15:14:01,710:hal4000:INFO:  processed,63,illumination,new shutters file
+2026-03-26 15:14:01,710:hal4000:INFO:message:
+2026-03-26 15:14:01,710:hal4000:INFO:  handled by,64,camera1,get functionality
+2026-03-26 15:14:01,710:hal4000:INFO:message:
+2026-03-26 15:14:01,711:hal4000:INFO:  processed,64,spotcounter,get functionality
+2026-03-26 15:14:01,712:hal4000:INFO:message:
+2026-03-26 15:14:01,712:hal4000:INFO:  handled by,65,camera1,configuration
+2026-03-26 15:14:01,712:hal4000:INFO:message:
+2026-03-26 15:14:01,712:hal4000:INFO:  processed,65,illumination,configuration
+2026-03-26 15:14:15,740:hal4000:INFO:message:
+2026-03-26 15:14:15,740:hal4000:INFO:  queued,66,hal,close event
+2026-03-26 15:14:41,365:hal4000:INFO:message:
+2026-03-26 15:14:41,365:hal4000:INFO:  Fitting problem: Number of calls to function has reached maxfev = 500.
+2026-03-26 15:14:41,410:hal4000:INFO:message:
+2026-03-26 15:14:41,410:hal4000:INFO:  uc480: Call failed with error 1 is_CopyImageMem
