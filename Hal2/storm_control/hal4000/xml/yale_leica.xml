@@ -129,7 +129,7 @@
           <default_max type="int">2304</default_max>
           <default_min type="int">100</default_min>
           <flip_horizontal type="boolean">False</flip_horizontal>
-          <flip_vertical type="boolean">True</flip_vertical>
+          <flip_vertical type="boolean">False</flip_vertical>
           <transpose type="boolean">True</transpose>
 
 

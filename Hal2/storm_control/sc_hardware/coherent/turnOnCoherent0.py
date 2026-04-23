@@ -29,7 +29,7 @@ v7 = ctypes.create_string_buffer(16)
 ret = cohr_dll.CohrHOPS_InitializeHandle(v1[0], v7)
 ret = cohr_dll.CohrHOPS_SendCommand.argtypes = [ctypes.c_ulonglong, ctypes.c_void_p, ctypes.c_void_p]
 v8p = ctypes.create_string_buffer(16)
-v11p = ctypes.c_char_p(b'PCMD=50')
+v11p = ctypes.c_char_p(b'PCMD=400')
 ret = cohr_dll.CohrHOPS_SendCommand(v1[0], v11p, v8p)
 # time.sleep(3)
 v10p = ctypes.c_char_p(b'KSWCMD=1')

@@ -10,7 +10,7 @@ try:
 except serial.SerialException:
     print('port already open or could not open port')
 
-power_cmd = ('setpower 2 ' + str(200)).encode()
+power_cmd = ('setpower 2 ' + str(800)).encode()
 cmd = b'%b\r\n' % power_cmd
 
 serial_port.reset_input_buffer()

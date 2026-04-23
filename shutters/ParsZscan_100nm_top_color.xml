@@ -12,10 +12,10 @@
     <fps type="float">9.999362446665053</fps>
     <readout_speed type="int">2</readout_speed>
     <saved type="boolean">True</saved>
-    <subarray_hpos type="int">0</subarray_hpos>
-    <subarray_hsize type="int">2304</subarray_hsize>
-    <subarray_vpos type="int">0</subarray_vpos>
-    <subarray_vsize type="int">2304</subarray_vsize>
+  <subarray_hpos type="int">80</subarray_hpos>
+    <subarray_hsize type="int">512</subarray_hsize>
+    <subarray_vpos type="int">768</subarray_vpos>
+    <subarray_vsize type="int">512</subarray_vsize>
     <transpose type="boolean">True</transpose>
     <trigger_active type="string">SYNCREADOUT</trigger_active>
     <trigger_polarity type="string">POSITIVE</trigger_polarity>

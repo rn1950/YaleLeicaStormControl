@@ -9,4 +9,11 @@
     <off>1.0</off>
     <color>255,0,0</color>
   </event>
+    <event>
+    <channel>4</channel>
+    <power>1.0</power>
+    <on>0.0</on>
+    <off>1.0</off>
+    <color>255,0,0</color>
+  </event>
 </repeat>
