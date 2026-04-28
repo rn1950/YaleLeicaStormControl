@@ -151,7 +151,7 @@ class LockControl(QtCore.QObject):
         # FIXME: We only need to do this once, maybe not that big a deal.
         self.lock_mode.setZStageFunctionality(self.z_stage_functionality)
 
-        self.z_stage_functionality.recenter()
+        # self.z_stage_functionality.recenter() robby commented out since we don't want to recenter if we already are at the correct z plane for imaging
 
     def handleNewFrame(self, frame):
         if self.offset_fp is not None:

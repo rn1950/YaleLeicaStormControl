@@ -348,7 +348,7 @@
         </ch3>
 
         <ch4>
-          <gui_name type="string">Genesis0</gui_name>
+          <gui_name type="string">Genesis561</gui_name>
           <color type="string">225,255,255</color>
 
           <digital_modulation>
@@ -358,7 +358,7 @@
         </ch4>
 
         <ch5>
-          <gui_name type="string">Genesis1</gui_name>
+          <gui_name type="string">Genesis488</gui_name>
           <color type="string">225,255,255</color>
 
           <digital_modulation>
