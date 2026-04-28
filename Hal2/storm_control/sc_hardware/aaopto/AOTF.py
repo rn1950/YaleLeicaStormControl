@@ -32,9 +32,7 @@ class AOTF(RS232.RS232):
         self.channel = 1
         # self.frequencies = []
         self.on_off = []
-        for i in range(8):
-            # self.frequencies.append(74.0)
-            self.on_off.append(False)
+
         try:
             # open port
             RS232.RS232.__init__(self, port='COM11', baudrate=9600, timeout=10)
@@ -47,6 +45,11 @@ class AOTF(RS232.RS232):
         except:
             self.live = 0
             print("Failed to connect to the AA AOTF at port", port)
+
+        for i in range(9):
+            # self.frequencies.append(74.0)
+            self.on_off.append(True)
+            self.channelOnOff(i, False)
 
     ## analogModulationOff
     #

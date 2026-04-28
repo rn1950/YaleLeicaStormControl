@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="133d93c5-dfed-4c06-ba80-eefe43ead5f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Hal2/storm_control/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/storm_control/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hal2/storm_control/hal4000/xml/yale_leica.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/storm_control/hal4000/xml/yale_leica.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hal2/storm_control/sc_hardware/coherent/turnOnCoherent0.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/storm_control/sc_hardware/coherent/turnOnCoherent0.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hal2/storm_control/sc_hardware/hamamatsu/hamamatsu_camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/storm_control/sc_hardware/hamamatsu/hamamatsu_camera.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hal2/storm_control/sc_hardware/mpbcomm/turnOnMPB642.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/storm_control/sc_hardware/mpbcomm/turnOnMPB642.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../image_log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../image_log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_24.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_24.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_25.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_25.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_26.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_26.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_27.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_27.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_28.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_28.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_29.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_29.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_30.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_30.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_31.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_31.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_32.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_32.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_33.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_33.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_34.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_34.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_35.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_35.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_36.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_36.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_37.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_37.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_38.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_38.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_39.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_39.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_40.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_40.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_41.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_41.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_42.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_42.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_43.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_43.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_44.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_44.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_45.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_45.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_46.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_46.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_47.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_47.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_48.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_48.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_49.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_49.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_50.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_50.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_51.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_51.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_52.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_52.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_56.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_56.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_56.out.1" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_56.out.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_60.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_60.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_61.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_61.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_61.out.1" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_61.out.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_62.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_62.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_62.out.1" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_62.out.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_63.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_63.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_63.out.1" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_63.out.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_64.out" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_64.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logs/hal4000_64.out.1" beforeDir="false" afterPath="$PROJECT_DIR$/../logs/hal4000_64.out.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ParsZscan_100nm_545_beads.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ParsZscan_100nm_545_beads.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shutters_545.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shutters_545.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hal2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hal2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hal2/storm_control/sc_hardware/aaopto/AOTF.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/storm_control/sc_hardware/aaopto/AOTF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +24,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Light-saver/Documents/storm_control/shutters&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Light-saver/Documents/storm_control/Hal2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Light-saver\Documents\storm_control\shutters" />
