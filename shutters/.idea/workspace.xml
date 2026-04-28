@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="133d93c5-dfed-4c06-ba80-eefe43ead5f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Hal2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hal2/storm_control/hal4000/xml/yale_leica.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/storm_control/hal4000/xml/yale_leica.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="133d93c5-dfed-4c06-ba80-eefe43ead5f8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

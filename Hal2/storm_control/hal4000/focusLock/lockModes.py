@@ -583,7 +583,7 @@ class LockMode(QtCore.QObject):
 
     def stopLock(self):
         self.behavior = "none"
-        LockMode.z_stage_functionality.recenter()
+        # LockMode.z_stage_functionality.recenter()
         self.setLockStatus(False)
 
     def stopFilm(self):
