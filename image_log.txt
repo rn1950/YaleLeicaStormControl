@@ -51,3 +51,5 @@
 2026-04-28 18:46:29.506664,E:/Robby/26_04_28_debugging_z_stacking\astigmatism_0002,
 2026-04-28 18:47:57.720494,E:/Robby/26_04_28_debugging_z_stacking\astigmatism_0003,
 2026-04-28 18:48:32.925538,E:/Robby/26_04_28_debugging_z_stacking\astigmatism_0004,
+2026-04-29 12:35:01.349031,E:/Robby/26_04_29_sparse_beads_astigmatism\no_astigmatism_0001,
+2026-04-29 12:36:30.012431,E:/Robby/26_04_29_sparse_beads_astigmatism\astigmatism_0001,

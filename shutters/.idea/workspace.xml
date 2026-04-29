@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="133d93c5-dfed-4c06-ba80-eefe43ead5f8" name="Changes" comment="" />
+    <list default="true" id="133d93c5-dfed-4c06-ba80-eefe43ead5f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Hal2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hal2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsZscan_100nm_545_beads.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsZscan_100nm_dna_paint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsZscan_100nm_dna_paint_20ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsZscan_100nm_dna_paint_top_color_30ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsZscan_100nm_top_color.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Light-saver/Documents/storm_control/Hal2"
+    "last_opened_file_path": "C:/Users/Light-saver/Documents/storm_control/shutters"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -41,5 +49,16 @@
       <updated>1774565572989</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
